@@ -1,0 +1,6 @@
+void delay500ms(void)
+{unsigned char i,j,k;
+for(i=15;i>0;i--)
+for(j=202;j>0;j--)
+for(k=81;k>0;k--);
+}
